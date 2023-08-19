@@ -1,6 +1,6 @@
 const users = [
     { email: '1@gmail.com', password: '123456' },
-    { email: 'fajar@gmail.com', password: '123456' },
+    { email: 'fajar@gmail.com', password: 'fajar007123' },
 ]
 
 function tombol(){
